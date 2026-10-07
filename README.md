@@ -124,6 +124,3 @@ Code, annotations and codebook are released under the MIT License (see
 `LICENSE`). The SemEval-2023 Task 3 articles are not part of this release and
 remain under the terms set by the task organisers.
 
-## Citation
-
-TODO
